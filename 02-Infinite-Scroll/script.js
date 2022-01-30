@@ -1,7 +1,7 @@
 const imageContainer = document.getElementById("image-container");
 const loader = document.getElementById("loader");
 
-const count = 30;
+let count = 5;
 const apiKey = "e4R92nYwU4jJRFWbSR3RAoPyrx0M0X-J54cbDgvK-UE";
 
 // unsplash api
@@ -21,6 +21,9 @@ function imageLoaded() {
     loader.hidden = true;
     // reseting images loaded to match the length of the array
     imagesLoaded = 0;
+
+    // after initial load changing count from 5 to 30
+    count = 30;
   }
 }
 
