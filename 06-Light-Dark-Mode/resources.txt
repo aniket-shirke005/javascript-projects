@@ -1,0 +1,4 @@
+https://heropatterns.com/
+https://material.io/design/color/dark-theme.html
+https://undraw.co/search
+fonts: Oswald,Comfortaa,Kaushan
