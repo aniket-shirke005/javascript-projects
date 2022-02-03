@@ -1,5 +1,5 @@
-const userCardTemplate = document.querySelector("[data-user-template]");
 const userCardContainer = document.querySelector("[user-card-container]");
+const userCardTemplate = document.querySelector("[data-user-template]");
 const input = document.getElementById("search");
 
 let users = [];
