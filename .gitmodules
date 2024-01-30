@@ -1,0 +1,3 @@
+[submodule "sub/github-slideshow"]
+	path = sub/github-slideshow
+	url = https://github.com/aniket-shirke005/github-slideshow.git
